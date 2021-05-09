@@ -1,7 +1,4 @@
-# Gesture detection and classification to detect confusion using
- Gesture detection and classification to detect confusion using MediaPipe, Locally Linear Embedding and KMeans clustering.
-
-Title: Gesture detection and classification to detect gestures that portray confusion. Using MediaPipe, LLE and KMeans clustering.
+# Gesture detection and classification to detect confusion using MediaPipe, Locally Linear Embedding and KMeans clustering.
 
 Dependencies:
 -mediapipe
